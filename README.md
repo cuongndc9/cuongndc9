@@ -7,7 +7,7 @@ I enjoy hobbies like running, building automated tools, and trekking. Join me as
 📫 **Get in Touch**  
 Have questions or just want to say hi? Feel free to reach out to me through any of the following channels:  
 - Email: [cuongndc9@gmail.com](mailto:cuongndc9@gmail.com)  
-- [LinkedIn: Cuong Nguyen](https://www.linkedin.com/in/cuong9)
+- LinkedIn: [Cuong Nguyen](https://www.linkedin.com/in/cuong9)
 
 I'm always happy to connect and chat with you.
 
