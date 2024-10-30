@@ -15,3 +15,6 @@ Let’s dive into the world of digital innovation together and discover awesome 
 
 Warm regards,  
 Cuong Nguyen
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
