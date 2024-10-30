@@ -21,18 +21,6 @@ Cuong Nguyen
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 757.3 kB Used in GitHub's Storage 
- > 
-> 🏆 52 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 225 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
