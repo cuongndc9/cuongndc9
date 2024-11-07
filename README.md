@@ -17,19 +17,19 @@ Warm regards,
 Cuong Nguyen
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-908%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-147-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-144-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Go                       14 hrs 48 mins      █████████████░░░░░░░░░░░░   52.41 % 
-JavaScript               5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-SQL                      2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-YAML                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Bash                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Go                       17 hrs 10 mins      ██████████████░░░░░░░░░░░   57.57 % 
+JavaScript               3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+SQL                      2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+YAML                     2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Bash                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 ```
 
 
