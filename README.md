@@ -17,7 +17,7 @@ Warm regards,
 Cuong Nguyen
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-916%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-144-blue)
 
@@ -25,11 +25,11 @@ Cuong Nguyen
 
 ```text
 💬 Programming Languages: 
-Go                       17 hrs 10 mins      ██████████████░░░░░░░░░░░   57.57 % 
-JavaScript               3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-SQL                      2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-YAML                     2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Bash                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Go                       16 hrs 59 mins      ██████████████░░░░░░░░░░░   57.94 % 
+JavaScript               4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+SQL                      2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+YAML                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Protocol Buffer          1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 ```
 
 
