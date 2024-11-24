@@ -25,11 +25,11 @@ Cuong Nguyen
 
 ```text
 💬 Programming Languages: 
-Go                       18 hrs 58 mins      ████████████████░░░░░░░░░   63.36 % 
-JavaScript               3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-TypeScript               2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-SQL                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Go                       18 hrs 58 mins      █████████████████░░░░░░░░   68.61 % 
+TypeScript               2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+SQL                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 
 
