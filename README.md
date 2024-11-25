@@ -19,17 +19,17 @@ Cuong Nguyen
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Go                       18 hrs 58 mins      █████████████████░░░░░░░░   68.61 % 
-TypeScript               2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-SQL                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Go                       18 hrs 58 mins      █████████████████░░░░░░░░   68.42 % 
+TypeScript               2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+SQL                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 
 
