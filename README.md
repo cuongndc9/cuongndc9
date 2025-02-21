@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### Case Study: AI-powered Interior Design #21 
-> Artificial intelligence (AI) is rapidly transforming the interior design industry, impacting how designers work and how clients experience the design process.
+#### Case Study: Techcombank Auto-Earning #20 
+> Techcombank's Auto-Earning is a unique feature that Techcombank offers to customers. Let's explore its success and recommend potential enhancements.
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39cf8030-82c9-4ccf-bd5b-fafa1dfd701c_720x1480.jpeg" alt="Article Cover" style="width: 500px;">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa9561a4-5a20-4f53-86bc-027241bc3754_686x429.heic" alt="Article Cover" style="width: 500px;">
 
-🔗 [Read more](https://growwithcuong.substack.com/p/case-study-ai-powered-interior-design)
+🔗 [Read more](https://growwithcuong.substack.com/p/case-study-techcombank-auto-earning)
 
 *Last updated: 2/21/2025*
