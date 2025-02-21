@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### Case Study: Launching GTM for LinkedIn Games #16 
-> LinkedIn recently launched a new feature centered around word puzzle games. However, user attention & engagement for this feature have been lacking. I propose a relaunch of GTM strategy for LinkedIn.
+#### Scrum #18 
+> Scrum is an Agile framework designed to help teams manage complex projects, particularly in software development.
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3886ad29-1141-4855-b41f-5f29cff94f9b_700x394.heic" alt="Article Cover" style="max-width: 300px;">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe33c5962-19b4-4918-bb7d-45be6dd8c976_3872x2581.jpeg" alt="Article Cover" style="width: 500px;">
 
-🔗 [Read more](https://growwithcuong.substack.com/p/case-study-launching-gtm-for-linkedin)
+🔗 [Read more](https://growwithcuong.substack.com/p/scrum-18)
 
 *Last updated: 2/21/2025*
