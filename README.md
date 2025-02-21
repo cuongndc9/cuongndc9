@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### The Product Management life cycle #13 
-> The Product Management life cycle is a framework that manages a product from concept through launch and continuous improvement.
+#### Case Study: Launching GTM for LinkedIn Games #16 
+> LinkedIn recently launched a new feature centered around word puzzle games. However, user attention & engagement for this feature have been lacking. I propose a relaunch of GTM strategy for LinkedIn.
 
-[![Article Cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F842e8ba0-c0d4-4db0-9187-2a1f80503082_1092x926.png)](https://growwithcuong.substack.com/p/the-product-management-life-cycle)
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3886ad29-1141-4855-b41f-5f29cff94f9b_700x394.heic" alt="Article Cover" style="max-width: 300px;">
 
-🔗 [Read more](https://growwithcuong.substack.com/p/the-product-management-life-cycle)
+🔗 [Read more](https://growwithcuong.substack.com/p/case-study-launching-gtm-for-linkedin)
 
 *Last updated: 2/21/2025*
