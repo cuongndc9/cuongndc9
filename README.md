@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### Product Discovery #14 
-> Product Discovery is the starting point for creating a successful product. It's essential for making sure your product meets market needs and appeals to your target audience.
+#### Case Study: AI-powered Interior Design #21 
+> Artificial intelligence (AI) is rapidly transforming the interior design industry, impacting how designers work and how clients experience the design process.
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35505770-1714-440d-a7e2-583e291da680_1078x807.heic" alt="Article Cover" style="width: 500px;">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39cf8030-82c9-4ccf-bd5b-fafa1dfd701c_720x1480.jpeg" alt="Article Cover" style="width: 500px;">
 
-🔗 [Read more](https://growwithcuong.substack.com/p/product-discovery-14)
+🔗 [Read more](https://growwithcuong.substack.com/p/case-study-ai-powered-interior-design)
 
 *Last updated: 2/22/2025*
