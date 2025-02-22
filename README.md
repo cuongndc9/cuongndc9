@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### Case Study: AI-powered Interior Design #21 
-> Artificial intelligence (AI) is rapidly transforming the interior design industry, impacting how designers work and how clients experience the design process.
+#### Case Study: Boosting Creator Monetization on Instagram #19 
+> Instagram, a photo and video-sharing social platform, is expanding monetization options for creators to compete with rivals like TikTok and YouTube.
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39cf8030-82c9-4ccf-bd5b-fafa1dfd701c_720x1480.jpeg" alt="Article Cover" style="width: 500px;">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c5c12bc-0190-4d3a-9d23-de0b3dfd6b74_759x399.heic" alt="Article Cover" style="width: 500px;">
 
-🔗 [Read more](https://growwithcuong.substack.com/p/case-study-ai-powered-interior-design)
+🔗 [Read more](https://growwithcuong.substack.com/p/case-study-boosting-creator-monetization)
 
 *Last updated: 2/22/2025*
