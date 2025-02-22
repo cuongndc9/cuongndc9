@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### Agile #17 
-> Agile is a project management framework that emphasizes collaboration, adaptability, and continuous improvement.
+#### Case Study: Improving Google Translate for Travelers #15 
+> Google Translate is the top #1 translation app that supports 243 languages. In this article, I would like to improve Google Translate for Travelers.
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F007cdbc5-d750-4d45-9682-2e754d3077c6_5355x4016.jpeg" alt="Article Cover" style="width: 500px;">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc41ed84f-bdf9-4136-a6ea-cfff9150107e_1200x550.heic" alt="Article Cover" style="width: 500px;">
 
-🔗 [Read more](https://growwithcuong.substack.com/p/agile-17)
+🔗 [Read more](https://growwithcuong.substack.com/p/case-study-improving-google-translate)
 
 *Last updated: 2/22/2025*
