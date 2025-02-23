@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### Case Study: Boosting Creator Monetization on Instagram #19 
-> Instagram, a photo and video-sharing social platform, is expanding monetization options for creators to compete with rivals like TikTok and YouTube.
+#### Case Study: Improving Google Translate for Travelers #15 
+> Google Translate is the top #1 translation app that supports 243 languages. In this article, I would like to improve Google Translate for Travelers.
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c5c12bc-0190-4d3a-9d23-de0b3dfd6b74_759x399.heic" alt="Article Cover" style="width: 500px;">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc41ed84f-bdf9-4136-a6ea-cfff9150107e_1200x550.heic" alt="Article Cover" style="width: 500px;">
 
-🔗 [Read more](https://growwithcuong.substack.com/p/case-study-boosting-creator-monetization)
+🔗 [Read more](https://growwithcuong.substack.com/p/case-study-improving-google-translate)
 
-*Last updated: 2/22/2025*
+*Last updated: 2/23/2025*
