@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### Agile #17 
-> Agile is a project management framework that emphasizes collaboration, adaptability, and continuous improvement.
+#### Case Study: AI-powered Interior Design #21 
+> Artificial intelligence (AI) is rapidly transforming the interior design industry, impacting how designers work and how clients experience the design process.
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F007cdbc5-d750-4d45-9682-2e754d3077c6_5355x4016.jpeg" alt="Article Cover" style="width: 500px;">
+[![Article Cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39cf8030-82c9-4ccf-bd5b-fafa1dfd701c_720x1480.jpeg)](https://growwithcuong.substack.com/p/case-study-ai-powered-interior-design)
 
-🔗 [Read more](https://growwithcuong.substack.com/p/agile-17)
+🔗 [Read more](https://growwithcuong.substack.com/p/case-study-ai-powered-interior-design)
 
-*Last updated: 2/23/2025*
+*Last updated: 2/21/2025*
