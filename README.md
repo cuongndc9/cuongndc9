@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### Case Study: Launching GTM for LinkedIn Games #16 
-> LinkedIn recently launched a new feature centered around word puzzle games. However, user attention & engagement for this feature have been lacking. I propose a relaunch of GTM strategy for LinkedIn.
+#### Product Discovery #14 
+> Product Discovery is the starting point for creating a successful product. It's essential for making sure your product meets market needs and appeals to your target audience.
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3886ad29-1141-4855-b41f-5f29cff94f9b_700x394.heic" alt="Article Cover" style="width: 500px;">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35505770-1714-440d-a7e2-583e291da680_1078x807.heic" alt="Article Cover" style="width: 500px;">
 
-🔗 [Read more](https://growwithcuong.substack.com/p/case-study-launching-gtm-for-linkedin)
+🔗 [Read more](https://growwithcuong.substack.com/p/product-discovery-14)
 
 *Last updated: 2/23/2025*
