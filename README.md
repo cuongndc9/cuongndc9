@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### Case Study: Boosting Creator Monetization on Instagram #19 
-> Instagram, a photo and video-sharing social platform, is expanding monetization options for creators to compete with rivals like TikTok and YouTube.
+#### User Experience (UX) #12 
+> In this article, I share my point of view on User Experience (UX), differences between UI and UX, the principles we are able to learn from Steve Jobs, what is a great UX, and how to evaluate UX.
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c5c12bc-0190-4d3a-9d23-de0b3dfd6b74_759x399.heic" alt="Article Cover" style="width: 450px;">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd4f2dd5-9d18-4a0e-a569-9563ce303651_1900x1511.heic" alt="Article Cover" style="width: 450px;">
 
-🔗 [Read more](https://growwithcuong.substack.com/p/case-study-boosting-creator-monetization)
+🔗 [Read more](https://growwithcuong.substack.com/p/user-experience-ux-12)
 
 *Last updated: 2/28/2025*
