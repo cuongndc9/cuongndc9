@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### User Experience (UX) #12 
-> In this article, I share my point of view on User Experience (UX), differences between UI and UX, the principles we are able to learn from Steve Jobs, what is a great UX, and how to evaluate UX.
+#### Product Discovery #14 
+> Product Discovery is the starting point for creating a successful product. It's essential for making sure your product meets market needs and appeals to your target audience.
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd4f2dd5-9d18-4a0e-a569-9563ce303651_1900x1511.heic" alt="Article Cover" style="width: 450px;">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35505770-1714-440d-a7e2-583e291da680_1078x807.heic" alt="Article Cover" style="width: 450px;">
 
-🔗 [Read more](https://growwithcuong.substack.com/p/user-experience-ux-12)
+🔗 [Read more](https://growwithcuong.substack.com/p/product-discovery-14)
 
 *Last updated: 2/28/2025*
