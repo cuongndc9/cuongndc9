@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### Agile #17 
-> Agile is a project management framework that emphasizes collaboration, adaptability, and continuous improvement.
+#### Scrum #18 
+> Scrum is an Agile framework designed to help teams manage complex projects, particularly in software development.
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F007cdbc5-d750-4d45-9682-2e754d3077c6_5355x4016.jpeg" alt="Article Cover" style="width: 450px;">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe33c5962-19b4-4918-bb7d-45be6dd8c976_3872x2581.jpeg" alt="Article Cover" style="width: 450px;">
 
-🔗 [Read more](https://growwithcuong.substack.com/p/agile-17)
+🔗 [Read more](https://growwithcuong.substack.com/p/scrum-18)
 
 *Last updated: 2/28/2025*
