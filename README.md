@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### Product Discovery #14 
-> Product Discovery is the starting point for creating a successful product. It's essential for making sure your product meets market needs and appeals to your target audience.
+#### Agile #17 
+> Agile is a project management framework that emphasizes collaboration, adaptability, and continuous improvement.
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35505770-1714-440d-a7e2-583e291da680_1078x807.heic" alt="Article Cover" style="width: 450px;">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F007cdbc5-d750-4d45-9682-2e754d3077c6_5355x4016.jpeg" alt="Article Cover" style="width: 450px;">
 
-🔗 [Read more](https://growwithcuong.substack.com/p/product-discovery-14)
+🔗 [Read more](https://growwithcuong.substack.com/p/agile-17)
 
 *Last updated: 2/28/2025*
