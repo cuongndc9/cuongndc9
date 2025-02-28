@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### Scrum #18 
-> Scrum is an Agile framework designed to help teams manage complex projects, particularly in software development.
+#### Product Discovery #14 
+> Product Discovery is the starting point for creating a successful product. It's essential for making sure your product meets market needs and appeals to your target audience.
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe33c5962-19b4-4918-bb7d-45be6dd8c976_3872x2581.jpeg" alt="Article Cover" style="width: 450px;">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35505770-1714-440d-a7e2-583e291da680_1078x807.heic" alt="Article Cover" style="width: 450px;">
 
-🔗 [Read more](https://growwithcuong.substack.com/p/scrum-18)
+🔗 [Read more](https://growwithcuong.substack.com/p/product-discovery-14)
 
 *Last updated: 2/28/2025*
