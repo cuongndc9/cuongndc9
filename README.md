@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### The Product Management life cycle #13 
-> The Product Management life cycle is a framework that manages a product from concept through launch and continuous improvement.
+#### User Experience (UX) #12 
+> In this article, I share my point of view on User Experience (UX), differences between UI and UX, the principles we are able to learn from Steve Jobs, what is a great UX, and how to evaluate UX.
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F842e8ba0-c0d4-4db0-9187-2a1f80503082_1092x926.png" alt="Article Cover" style="width: 450px;">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd4f2dd5-9d18-4a0e-a569-9563ce303651_1900x1511.heic" alt="Article Cover" style="width: 450px;">
 
-🔗 [Read more](https://growwithcuong.substack.com/p/the-product-management-life-cycle)
+🔗 [Read more](https://growwithcuong.substack.com/p/user-experience-ux-12)
 
 *Last updated: 2/28/2025*
