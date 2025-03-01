@@ -9,87 +9,87 @@
 
 ## 🚀 Recommended Reads for Today
 
-*Last updated: 01/03/2025, 09:35:15*
+*Last updated: 01/03/2025, 09:37:11*
 
 
-### 1. Top AI Research Papers(last week)
+### 1. OpenAI 'bây giờ biết cách xây dựng AGI'
 
-> SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc71f482e-ed0d-41d8-b88c-cf3c094e750c_1023x550.png" width="300px">
+> Chào buổi sáng, những người đam mê trí tuệ nhân tạo. Sam Altman đang trở lại trong tiêu đề tuần này—từ các bài đăng mơ hồ đến những tuyên bố rõ ràng: ...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a8a9e3e-270b-44cc-9c95-85d41f6aa109_1292x724.png" width="300px">
 
-🔗 [Read more](https://datagalore.substack.com/p/top-ai-research-paperslast-week-711)  
-
-
-### 2. I got 53.45% account growth but missed 100% account growth and a $50,000 bonus
-
-> Some days, you crush it. I had 53.45% account growth....  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1a4fa83-c057-421c-8c3f-85e4608f7dd6_1024x608.png" width="300px">
-
-🔗 [Read more](https://blog.spectretrades.com/p/i-got-5345-account-growth-but-missed)  
+🔗 [Read more](https://aiupdate.nguyentatkiem.com/p/openai-bay-gio-biet-cach-xay-dung)  
 
 
-### 3. Core Concepts: The Self-Aware Leadership Compass #4 - REFLECTION
+### 2. Our Disney Cruise Experience 
 
-> Hello KSKOers...  
-<img src="https://substack-post-media.s3.amazonaws.com/public/images/540d9b41-9069-4eaa-9950-64a42dfb3261_1364x1374.png" width="300px">
+> I’ve been sitting on this post for a while, it’s been about a month since we got back from our Disney Cruise!...  
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/b5b0d8c3-d768-4262-99a6-2adce10fbf14_870x908.png" width="300px">
 
-🔗 [Read more](https://knowingselfknowingothers.substack.com/p/core-concepts-the-self-aware-leadership-ba4)  
-
-
-### 4. Concordia AI 2024 Impact Highlights 
-
-> Concordia AI’s mission is to ensure that AI is developed and deployed in a way that is safe and aligned with global interests. We further our mission ...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb78f9a9-cd31-4ecb-a55a-1e7af4c21e4e_1600x899.jpeg" width="300px">
-
-🔗 [Read more](https://aisafetychina.substack.com/p/concordia-ai-2024-impact-highlights)  
+🔗 [Read more](https://themamanotes.substack.com/p/our-disney-cruise-experience)  
 
 
-### 5. Data Engineering Weekly #209
+### 3. Stripe’s Stablecoin Strategy
 
-> Automate Airflow deploys with built-in CI/CD....  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6f51c1bf-abc9-4cd3-ad69-22cc8e3f1ef2_1080x1080.png" width="300px">
+> This month, Stripe finalized the $1.1 billion acquisition of Bridge. This strategic move signals Stripe’s commitment to blockchain-based payments, pos...  
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/05d51c23-b513-4887-8018-b8d2ca3d6a25_2912x2080.png" width="300px">
 
-🔗 [Read more](https://www.dataengineeringweekly.com/p/data-engineering-weekly-209)  
-
-
-### 6. Is India’s Economic Growth Slipping?
-
-> Our goal with The Daily Brief is to simplify the biggest stories in the Indian markets and help you understand what they mean. We won’t just tell you ...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c185e75-3edf-4634-802d-ef7bb295c6d2_1792x1024.webp" width="300px">
-
-🔗 [Read more](https://thedailybrief.zerodha.com/p/is-indias-economic-growth-slipping)  
+🔗 [Read more](https://insights4vc.substack.com/p/stripes-stablecoin-strategy)  
 
 
-### 7. ☕🤖 Breaking: Anthropic's Next-Gen AI Coming Soon
+### 4. Motherson Sumi Wiring's Electrifying Growth Story
 
-> 🚀 Be featured in our next issue. 👉 work with us here...  
-<img src="https://substack-post-media.s3.amazonaws.com/public/images/478fa25b-439d-4c40-8acb-cf83c075189f_1280x720.jpeg" width="300px">
+> Q3 FY2025 Analysis & Strategic Outlook...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a051c50-1679-49a4-bb52-122d92b0a306_1644x1158.png" width="300px">
 
-🔗 [Read more](https://theaibreak.substack.com/p/breaking-anthropics-next-gen-ai-coming)  
-
-
-### 8. CPO at GoDaddy on Transforming a 27-Year-Old Business into an AI Powerhouse | Vinod Suresh, US BU 
-
-> No content...  
-<img src="https://substackcdn.com/image/youtube/w_728,c_limit/TymqGil5QkY" width="300px">
-
-🔗 [Read more](https://productschool.substack.com/p/cpo-at-godaddy-on-transforming-a)  
+🔗 [Read more](https://secondsource.substack.com/p/motherson-sumi-wirings-electrifying)  
 
 
-### 9. How Do You Design For Preventative User Behavior?
+### 5. 10 Years Of Experience vs 10 Years Of The SAME Experience
 
-> This article is written in a collaboration between Christopher K Wong (@christopherkwong), data-driven design expert and author of ‘Data Persuasion an...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8bf7f6f8-3449-44ab-950a-bef5aa23502c_1024x700.png" width="300px">
+> TL; DR:...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56f41edd-9056-4c93-9070-d5f99b5f4773_1280x720.webp" width="300px">
 
-🔗 [Read more](https://eidosdesign.substack.com/p/how-do-you-design-for-preventative)  
+🔗 [Read more](https://weekly.devleader.ca/p/10-years-of-experience-vs-10-years)  
 
 
-### 10. User Guide for Jodi Taylor Readers on Bluesky
+### 6. Back to the US I go...
 
-> If you're a fan of Jodi Taylor and her books, this guide will help you navigate Bluesky, access the Jodi Taylor feed, and get started with the Bluesky...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc374a4aa-e815-425d-9060-e5de408cf104_1500x500.png" width="300px">
+> This is a bonus piece, I sat in bed and just started typing. Friday, I’ll be writing ‘My American Bet’ which gives a little more context to my season’...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F359a937f-1a3c-4715-97b7-856454026a8d_4032x3024.jpeg" width="300px">
 
-🔗 [Read more](https://www.joditaylorbooks.com/p/user-guide-for-jodi-taylor-readers)  
+🔗 [Read more](https://www.joelaverick.com/p/back-to-the-us-i-go)  
+
+
+### 7. When to use conjoint analysis in user research
+
+> Conjoint analysis, while relatively popular in market research, is not particularly common in user research. Our analysis found that only 1% of user r...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5eca61e-50c4-4bdc-900e-2edd4b29c543_1024x1024.png" width="300px">
+
+🔗 [Read more](https://depth.drillbitlabs.com/p/when-to-use-conjoint-analysis-in)  
+
+
+### 8. Near Death Experience Number 1
+
+> The first time I almost died was at a movie theater. I was just a mischievous 13-year-old, hanging out with a group of friends and our girlfriends, co...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaff64eb-ec59-45a7-abba-25650a667843_1792x1024.webp" width="300px">
+
+🔗 [Read more](https://thehardroad.substack.com/p/near-death-experience-number-1)  
+
+
+### 9. #64 Here's how you keep up with AI!
+
+> Good morning, AI enthusiasts! This week, we’re diving into a challenge many of us face: keeping up with the rapid pace of AI and answering some extrem...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb923297f-041d-45ef-91ac-ef5c97ab0d2b_480x646.jpeg" width="300px">
+
+🔗 [Read more](https://learnaitogethernewsletter.substack.com/p/64-heres-how-you-keep-up-with-ai)  
+
+
+### 10. Side Quest Strategy
+
+> “Why did you just kill yourself, young man?”, I asked my kid....  
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/24bedc6c-19be-4dc0-a1c1-426eed7c817f_578x413.png" width="300px">
+
+🔗 [Read more](https://theglimmercode.substack.com/p/side-quest-strategy)  
 
 
 ---
