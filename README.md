@@ -9,11 +9,11 @@
 
 ### 📚 Daily Reading
 
-#### Product Discovery #14 
-> Product Discovery is the starting point for creating a successful product. It's essential for making sure your product meets market needs and appeals to your target audience.
+#### Case Study: Improving Google Translate for Travelers #15 
+> Google Translate is the top #1 translation app that supports 243 languages. In this article, I would like to improve Google Translate for Travelers.
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35505770-1714-440d-a7e2-583e291da680_1078x807.heic" alt="Article Cover" style="width: 450px;">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc41ed84f-bdf9-4136-a6ea-cfff9150107e_1200x550.heic" alt="Article Cover" style="width: 450px;">
 
-🔗 [Read more](https://growwithcuong.substack.com/p/product-discovery-14)
+🔗 [Read more](https://growwithcuong.substack.com/p/case-study-improving-google-translate)
 
 *Last updated: 3/1/2025*
