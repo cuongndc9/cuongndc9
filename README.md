@@ -9,67 +9,67 @@
 
 ## 🚀 Recommended Reads for Today
 
-*Last updated: 01/03/2025, 09:29:36*
+*Last updated: 01/03/2025, 09:32:24*
 
 
-### 1. CPO at GoDaddy on Transforming a 27-Year-Old Business into an AI Powerhouse | Vinod Suresh, US BU   
-> No content...  
-<img src="https://substackcdn.com/image/youtube/w_728,c_limit/TymqGil5QkY" width="300px">  
-🔗 [Read more](https://productschool.substack.com/p/cpo-at-godaddy-on-transforming-a)  
+### 1. Humanity’s Last Exam, Global AI Rivalries & Adaptive Insights! 🚀🤖  
+> Hello AI enthusiasts! Dive into the latest from the world of AI with top stories and cutting-edge research studies. This edition covers humanity’s fin...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F539e28ec-d01f-4eaa-9e29-b0f9d85336fe_1456x816.heic" width="300px">  
+🔗 [Read more](https://aibuzz.news/p/humanitys-last-exam-global-ai-rivalries)  
 
 
-### 2. Expanding Our Ways of Knowing  
-> In her newly released second edition of "Changing on the Job" (2025), Jennifer Garvey Berger offers us a profound insight that resonates deeply in our...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feeeb243a-2f11-404c-9731-8356e26436f1_2956x3941.jpeg" width="300px">  
-🔗 [Read more](https://melissageorge.substack.com/p/expanding-our-ways-of-knowing)  
+### 2. Why You Need To Value Your Stakeholders More  
+> Have you ever found yourself in a heated debate with a stakeholder, wondering if they are trying to derail your carefully crafted product vision? Well...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0948dd24-98dd-4f29-b214-05ac929528c8_2912x2096.png" width="300px">  
+🔗 [Read more](https://www.productreleasenotes.com/p/why-you-need-to-value-your-stakeholders)  
 
 
-### 3. The Strategy behind the chaos  
-> Imagine a world where a small cadre of tech billionaires with infinite wealth and infinite power and egos to match want to control the world they thin...  
-<img src="https://substack-post-media.s3.amazonaws.com/public/images/542ca6a2-2d2e-46ad-a20a-6a2b8091ad96_480x480.gif" width="300px">  
-🔗 [Read more](https://davidwfitzsimmons.substack.com/p/the-strategy-behind-the-chaos)  
+### 3. Project Management in Emergency Management | A Career Accelerator  
+> Project management isn’t just a formal discipline, it’s a career accelerator. In my work with emergency management teams across the country, I’ve noti...  
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/3690bfb2-31cc-4075-bae3-5b9c528872bf_1080x1080.png" width="300px">  
+🔗 [Read more](https://patrickvanhorne.substack.com/p/project-management-in-emergency-management-e8b)  
 
 
-### 4. The Product Is Never The Product - The Key to Sales  
-> A bushy-mustached man in a wide-brimmed hat steps onto a makeshift stage, surveying the crowd—farmers, laborers, and weary travelers, all desperate fo...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fecd26fb9-d8f7-4931-8ce4-ac779f2ad4dc_700x1038.png" width="300px">  
-🔗 [Read more](https://joeboyd.substack.com/p/the-product-is-never-the-product)  
+### 4. SAM ALTMAN DỰ BỆNH NHÂN ĐIỀU KHIỂN AI  
+> CHÀO MỪNG CÁC TÍN ĐỒ AI!...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff03671a6-b9ea-4864-bee2-a3be25be81b4_1292x727.png" width="300px">  
+🔗 [Read more](https://aiupdate.nguyentatkiem.com/p/sam-altman-du-benh-nhan-ieu-khien)  
 
 
-### 5. "AI is not coming for your job. It's coming for your workflow"  
-> Hello! Welcome to the latest edition of AI Gamechangers, the weekly newsletter where we chat with leaders from the games industry who are doing practi...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef90bf28-06d2-4df0-8c77-41b79d70b14a_1295x800.jpeg" width="300px">  
-🔗 [Read more](https://aigamechangers.substack.com/p/ai-is-not-coming-for-your-job-its)  
+### 5. Bruin AI Current Events  
+> Good morning Bruin Bots 🤖...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46fb0069-3591-4c89-8607-5c2cd60d2b04_1792x1024.webp" width="300px">  
+🔗 [Read more](https://bruinai.substack.com/p/bruin-ai-current-events-370)  
 
 
-### 6. Pioggia di investimenti e modelli, ma aumentano le proteste per copyright | Weekly AI  
-> Weekly AI è la nostra rassegna settimanale sulle notizie più rilevanti legate al mondo dell’intelligenza artificiale....  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc291ecb5-0b9a-491a-8acd-623f41c06087_1408x704.jpeg" width="300px">  
-🔗 [Read more](https://weeklyaiit.substack.com/p/pioggia-di-investimenti-e-modelli)  
+### 6. The Compass: Engage, Experience, Enjoy!  
+> If you are new to the Honors Program, this guide will help you navigate our community while informing you about fun ways to earn Honors Points, so you...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19c5f1eb-6b90-4006-aff1-3509700fa281_2048x683.png" width="300px">  
+🔗 [Read more](https://www.sfhonors.com/p/the-compass-engage-experience-enjoy)  
 
 
-### 7. The “Flood the Zone” Strategy  
-> The Trump-Musk administration is moving fast—flooding the zone with crises, cruelty, and chaos. Their goal? To overwhelm, disorient, and exhaust oppos...  
-<img src="" width="300px">  
-🔗 [Read more](https://antiauthoritarianplaybook.substack.com/p/the-flood-the-zone-strategy)  
+### 7. Core Concepts: The Self-Aware Leadership Compass #4 - REFLECTION  
+> Hello KSKOers...  
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/540d9b41-9069-4eaa-9950-64a42dfb3261_1364x1374.png" width="300px">  
+🔗 [Read more](https://knowingselfknowingothers.substack.com/p/core-concepts-the-self-aware-leadership-ba4)  
 
 
-### 8. Product-Led AI Agent Economy  
-> For the last two decades, APIs were the backbone of digital transformation. The API economy, once valued at $5.21 trillion (Deutsche Bank, 2023), was ...  
-<img src="https://substack-post-media.s3.amazonaws.com/public/images/9eb2de53-8b39-4b11-a2e9-b0d9e64d8063_736x605.png" width="300px">  
-🔗 [Read more](https://www.productvoyagers.com/p/product-led-ai-agent-economy)  
+### 8. The UX Pricing Dilemma: Are You Charging What You're Worth?  
+> One of the biggest challenges UX professionals face—whether freelance, in-house, or consulting—is determining the right price for their work. Charge t...  
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/c628c842-7b6e-4281-bb21-da8cb2fe7531_1920x1080.jpeg" width="300px">  
+🔗 [Read more](https://uxuniversity.io/p/the-ux-pricing-dilemma-are-you-charging)  
 
 
-### 9. Chuck Schumer's preposterous "lay down" strategy  
-> EXTRA! EXTRA! EXTRA!...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa00471c-f79e-493a-90d9-63f9b3a6d209_1834x1269.jpeg" width="300px">  
-🔗 [Read more](https://steveschmidt.substack.com/p/chuck-schumers-preposterous-lay-down)  
+### 9. Private Data  
+> Elon Musk’s U.S. Department of Government Efficiency (DOGE) is seeking access to a highly secure IRS system containing financial data on all taxpayers...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18167215-6603-41f0-a04b-ef427567c0b5_5000x4000.heic" width="300px">  
+🔗 [Read more](https://nickanderson.substack.com/p/private-data)  
 
 
-### 10. 2025 February "AI Evaluation" Digest  
-> Welcome to this month's AI Evaluation Digest — a space dedicated to challenging the status quo and broadly thinking about how we evaluate AI. In this ...  
-<img src="https://substack-post-media.s3.amazonaws.com/public/images/728dae01-89ec-486a-81bd-1fe783f8322c_1024x1024.webp" width="300px">  
-🔗 [Read more](https://aievaluation.substack.com/p/2025-february-ai-evaluation-digest)  
+### 10. This stock turned $1,000 into $55,000 in a year  
+> The company…...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4fe5adc-5e71-47ce-a769-74bfc21b5e47_2024x1002.png" width="300px">  
+🔗 [Read more](https://www.stockstrends.ai/p/this-stock-can-go-2x-this-year)  
 
 
 ---
