@@ -1,73 +1,87 @@
-### About Me
+# About Me
 
-👋 Hi, I'm a **tech enthusiast** & a **runner**. I focus on **AI-driven, user-centric products**.
+👋 Hi, I'm **Cuong Nguyen**, a **tech enthusiast** & a **runner**. I focus on **AI-driven, user-centric products**.
 
-### Let's Connect!
+# Table of Contents
+- [About Me](#about-me)
+- [Let's Connect!](#lets-connect)
+- [📚 Daily Reading List](#-daily-reading-list)
+- [Thank You](#thank-you)
+
+# Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/cuong9/)
 - ✍️ [Grow with Cuong](https://growwithcuong.substack.com/)
 
-### 📚 Daily Reading List
+# 📚 Daily Reading List
+
+*Last updated: 01/03/2025, 15:57:24*
 
 
-#### 1. What's New with AI #6-2025  
-> Welcome to this week’s edition of our AI Horizon Newsletter! We’re excited to bring you a roundup of the latest breakthroughs—from mobile app launches...  
-![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8587c31f-da60-4ffe-8564-49b110e76cec_1280x720.jpeg)  
-🔗 [Read more](https://aihorizonx.substack.com/p/whats-new-with-ai-6-2025)  
+### 1. Whose Experience is it Anyway?  
+> Owning Your Experience...  
+![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68205073-bf52-4234-ae4b-952887877807_4368x3144.png)  
+🔗 [Read more](https://podoflions.substack.com/p/whose-experience-is-it-anyway)  
 
 
-#### 2. TRIPLE FEATURE 02: The Brutalist  
-> Triple Feature combines one new movie / one old movie / one restaurant. Check out the first installment here....  
-![Cover Image](https://substack-post-media.s3.amazonaws.com/public/images/bcd5a150-5160-4e54-b0e1-e1765087a793_1280x772.png)  
-🔗 [Read more](https://moviepudding.substack.com/p/triple-feature-the-brutalist)  
+### 2. MSS buyers share their experience  
+> I asked Andrew to send me screenshots of how his own members are doing as I know that’s what most people want to see....  
+![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a8c986e-5018-4f6c-b36b-5ec6455cd6b3_1778x1076.png)  
+🔗 [Read more](https://independentpunter.substack.com/p/mss-buyers-share-their-experience)  
 
 
-#### 3. Why are teams only aligned during a crisis? | CircleCI & MongoDB  
-> This week, Ben and Andrew dive into the (surprisingly?) complex world of calculator apps, analyze how AI is revolutionizing the technical interview, a...  
-![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5331ad49-7285-402f-83cc-36db88d0946b_3360x2400.png)  
-🔗 [Read more](https://devinterrupted.substack.com/p/why-are-teams-only-aligned-during)  
+### 3. Back to the US I go...  
+> This is a bonus piece, I sat in bed and just started typing. Friday, I’ll be writing ‘My American Bet’ which gives a little more context to my season’...  
+![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F359a937f-1a3c-4715-97b7-856454026a8d_4032x3024.jpeg)  
+🔗 [Read more](https://www.joelaverick.com/p/back-to-the-us-i-go)  
 
 
-#### 4. News from the Shire: Wednesday 26th February  
-> Dear readers - I would like to start off my latest newsletter with a new update to my Substack. There is now a CONTACT FORM for you to get in touch....  
-![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a21adfe-fd57-4c34-9fbb-0ba61bbe68fa_6016x4000.jpeg)  
-🔗 [Read more](https://callmewill97.substack.com/p/news-from-the-shire-wednesday-26th)  
+### 4. When to use conjoint analysis in user research  
+> Conjoint analysis, while relatively popular in market research, is not particularly common in user research. Our analysis found that only 1% of user r...  
+![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5eca61e-50c4-4bdc-900e-2edd4b29c543_1024x1024.png)  
+🔗 [Read more](https://depth.drillbitlabs.com/p/when-to-use-conjoint-analysis-in)  
 
 
-#### 5. Defender For Cloud - under the hood: Continuous export at scale  
-> If your idea of 'continuous export' is manually copying security data into a spreadsheet at 2 AM, it might be time to let Defender for Cloud do the he...  
-![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ee2a9a0-926b-4e53-bd93-cfb3da35fd8d_1200x400.heic)  
-🔗 [Read more](https://jakubfras.substack.com/p/defender-for-cloud-under-the-hood-ae2)  
+### 5. Permission to go slow  
+> No content...  
+![Cover Image](https://substack-post-media.s3.amazonaws.com/public/images/255db83a-73cc-479e-a35f-e968e462727f_600x500.jpeg)  
+🔗 [Read more](https://jamesmccrae.substack.com/p/permission-to-go-slow)  
 
 
-#### 6. New Michelin Stars, Launching a New Feature, Critics & More  
-> It was a busy week in the world of restaurants, with new Michelin accolades announced last Monday....  
-![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5eb57d5c-4712-4fc6-bd2f-1f296f38e06c_3004x2692.jpeg)  
-🔗 [Read more](https://professionallunch.substack.com/p/new-michelin-stars-launching-a-new)  
+### 6. The Rise of Open-Source LLMs: Revolutionizing the AI Industry  
+> In recent years, large language models (LLMs) have become the cornerstone of artificial intelligence, driving breakthroughs in natural language proces...  
+![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b7024b9-727f-4e3d-867e-ba4290427adf_1024x768.jpeg)  
+🔗 [Read more](https://aihorizonx.substack.com/p/the-rise-of-open-source-llms-revolutionizing)  
 
 
-#### 7. Good Insights: Choose a Symbol for Your Creative Project  
-> Hello and welcome to Mature Content, a newsletter about lifelong learning, where I offer tools, insights, and resources for personal growth and discov...  
-![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c348989-1575-4cbf-a630-d81ad0c5b20c_1920x1280.jpeg)  
-🔗 [Read more](https://delialloyd.substack.com/p/good-insights-choose-a-symbol-for)  
+### 7. The Hidden Half of Experience   
+> In my writing here, I try to focus on the different ways meditation and meditative insight can help with everyday life, as well as some of the differe...  
+![Cover Image](https://substack-video.s3.amazonaws.com/video_upload/post/156670335/c8e393b5-8aca-48bb-b1cf-90e7c991338a/transcoded-1739022415.png)  
+🔗 [Read more](https://www.homebasewithjeff.com/p/the-hidden-half-of-experience-ee8)  
 
 
-#### 8. How to grow Product Managers?  
-> Finding skilled product managers is tough—demand is higher than supply, especially in smaller markets....  
-![Cover Image](https://substack-video.s3.amazonaws.com/video_upload/post/157986739/6d37877b-1574-4a80-821a-acc71748faaf/transcoded-1740599251.png)  
-🔗 [Read more](https://www.tpg.ee/p/how-to-grow-product-managers-wise)  
+### 8. Near Death Experience Number 1  
+> The first time I almost died was at a movie theater. I was just a mischievous 13-year-old, hanging out with a group of friends and our girlfriends, co...  
+![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaff64eb-ec59-45a7-abba-25650a667843_1792x1024.webp)  
+🔗 [Read more](https://thehardroad.substack.com/p/near-death-experience-number-1)  
 
 
-#### 9. How to Trick Investors & VCs 🤫💰  
-> Today we have a guest post from the anonymous tech finance guy called OnlyCFO. If you haven’t heard of him then you should check out his newsletter - ...  
-![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75ea9039-65ed-455b-9000-9d132f6b14f2_2188x1038.png)  
-🔗 [Read more](https://www.thevccorner.com/p/how-to-trick-investors-and-vcs)  
+### 9. 3 Stocks Leading the Future of Cloud, Healthcare, and AI Insurance  
+> The cloud computing, medical technology, and AI-driven insurance industries are undergoing rapid transformations as companies integrate artificial int...  
+![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F953dea19-5a7e-41ac-8c04-0856c918b7c2_791x653.png)  
+🔗 [Read more](https://traderspro.substack.com/p/3-stocks-leading-the-future-of-cloud)  
 
 
-#### 10. The 2 Meta-Skills That Will Make You Unstoppable in AI & Fitness  
-> We live in an amazing time. For $20/mo, you have in your pocket the world’s most powerful teacher, coach, therapist, thought partner, assistant, chief...  
-![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff20f35a2-713d-4bf0-98f2-cb78fcfd913c_1156x874.png)  
-🔗 [Read more](https://manjeet.substack.com/p/the-2-meta-skills-that-will-make)  
+### 10. My Experience Quitting Weed  
+> It’s been over 8 months without weed...  
+![Cover Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d51ff5b-d378-421b-851d-0f512ae6548e_1024x1024.webp)  
+🔗 [Read more](https://bowtiedsocialcircle.substack.com/p/my-experience-quitting-weed)  
 
 
-*Last updated: 3/1/2025*
+---
+
+### Thank You 🙏
+
+If you enjoyed this list, consider subscribing to my [Substack](https://growwithcuong.substack.com/) for more insights and updates.
+
+![Footer Image](https://via.placeholder.com/728x90.png?text=Thank+You+for+Reading!)
