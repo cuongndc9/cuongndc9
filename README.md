@@ -1,4 +1,4 @@
-# 📚 Cuong's Daily Reading Picks
+# 📚 Quick Reads Today
 
 👋 Hi, I'm **Cuong Nguyen**, a **tech enthusiast** & a **runner**. Every day, I handpick insightful articles for you to stay ahead in tech, product management, and innovation.
 
@@ -9,74 +9,34 @@
 
 ## 🚀 Recommended Reads for Today
 
-*Last updated: 01/03/2025, 09:37:11*
+*Last updated: 01/03/2025, 09:43:15*
 
 
-### 1. OpenAI 'bây giờ biết cách xây dựng AGI'
+### 1. Election Hacking 2024
 
-> Chào buổi sáng, những người đam mê trí tuệ nhân tạo. Sam Altman đang trở lại trong tiêu đề tuần này—từ các bài đăng mơ hồ đến những tuyên bố rõ ràng: ...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a8a9e3e-270b-44cc-9c95-85d41f6aa109_1292x724.png" width="300px">
+> No content...  
+<img src="https://substackcdn.com/image/youtube/w_728,c_limit/YAauGlbHZbw" width="300px">
 
-🔗 [Read more](https://aiupdate.nguyentatkiem.com/p/openai-bay-gio-biet-cach-xay-dung)  
-
-
-### 2. Our Disney Cruise Experience 
-
-> I’ve been sitting on this post for a while, it’s been about a month since we got back from our Disney Cruise!...  
-<img src="https://substack-post-media.s3.amazonaws.com/public/images/b5b0d8c3-d768-4262-99a6-2adce10fbf14_870x908.png" width="300px">
-
-🔗 [Read more](https://themamanotes.substack.com/p/our-disney-cruise-experience)  
+🔗 [Read more](https://tellthetruth4free.substack.com/p/election-hacking-2024)  
 
 
-### 3. Stripe’s Stablecoin Strategy
+### 2. Join Our 5-Day Remote Leadership Challenge
 
-> This month, Stripe finalized the $1.1 billion acquisition of Bridge. This strategic move signals Stripe’s commitment to blockchain-based payments, pos...  
-<img src="https://substack-post-media.s3.amazonaws.com/public/images/05d51c23-b513-4887-8018-b8d2ca3d6a25_2912x2080.png" width="300px">
+> Leadership is challenging enough in person. But when you’re managing teams remotely, every aspect becomes more complex. Whether you’re leading a fully...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbff8f99a-63d9-423e-b201-e6ef0548e519_2356x1248.png" width="300px">
 
-🔗 [Read more](https://insights4vc.substack.com/p/stripes-stablecoin-strategy)  
-
-
-### 4. Motherson Sumi Wiring's Electrifying Growth Story
-
-> Q3 FY2025 Analysis & Strategic Outlook...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a051c50-1679-49a4-bb52-122d92b0a306_1644x1158.png" width="300px">
-
-🔗 [Read more](https://secondsource.substack.com/p/motherson-sumi-wirings-electrifying)  
+🔗 [Read more](https://16personalities.substack.com/p/join-our-5-day-remote-leadership-challenge)  
 
 
-### 5. 10 Years Of Experience vs 10 Years Of The SAME Experience
+### 3. exploring new role: "employee experience manager"
 
-> TL; DR:...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56f41edd-9056-4c93-9070-d5f99b5f4773_1280x720.webp" width="300px">
+> employee experience manager: designing workplaces where people thrive...  
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/773c516e-f7a0-4452-96a2-ff6057146c7e_1536x2305.jpeg" width="300px">
 
-🔗 [Read more](https://weekly.devleader.ca/p/10-years-of-experience-vs-10-years)  
-
-
-### 6. Back to the US I go...
-
-> This is a bonus piece, I sat in bed and just started typing. Friday, I’ll be writing ‘My American Bet’ which gives a little more context to my season’...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F359a937f-1a3c-4715-97b7-856454026a8d_4032x3024.jpeg" width="300px">
-
-🔗 [Read more](https://www.joelaverick.com/p/back-to-the-us-i-go)  
+🔗 [Read more](https://khadyajah.substack.com/p/exploring-new-role-employee-experience)  
 
 
-### 7. When to use conjoint analysis in user research
-
-> Conjoint analysis, while relatively popular in market research, is not particularly common in user research. Our analysis found that only 1% of user r...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5eca61e-50c4-4bdc-900e-2edd4b29c543_1024x1024.png" width="300px">
-
-🔗 [Read more](https://depth.drillbitlabs.com/p/when-to-use-conjoint-analysis-in)  
-
-
-### 8. Near Death Experience Number 1
-
-> The first time I almost died was at a movie theater. I was just a mischievous 13-year-old, hanging out with a group of friends and our girlfriends, co...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaff64eb-ec59-45a7-abba-25650a667843_1792x1024.webp" width="300px">
-
-🔗 [Read more](https://thehardroad.substack.com/p/near-death-experience-number-1)  
-
-
-### 9. #64 Here's how you keep up with AI!
+### 4. #64 Here's how you keep up with AI!
 
 > Good morning, AI enthusiasts! This week, we’re diving into a challenge many of us face: keeping up with the rapid pace of AI and answering some extrem...  
 <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb923297f-041d-45ef-91ac-ef5c97ab0d2b_480x646.jpeg" width="300px">
@@ -84,12 +44,52 @@
 🔗 [Read more](https://learnaitogethernewsletter.substack.com/p/64-heres-how-you-keep-up-with-ai)  
 
 
-### 10. Side Quest Strategy
+### 5. What is your AI strategy?
 
-> “Why did you just kill yourself, young man?”, I asked my kid....  
-<img src="https://substack-post-media.s3.amazonaws.com/public/images/24bedc6c-19be-4dc0-a1c1-426eed7c817f_578x413.png" width="300px">
+> I’m launching two new cohorts for my live, interactive, online course, Sociotechnical Systems Change in Practice. ‘Sociotechnical Systems Change in Pr...  
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/53eda9e0-fdd6-4768-8b3f-4f14d7c69e0b_420x300.png" width="300px">
 
-🔗 [Read more](https://theglimmercode.substack.com/p/side-quest-strategy)  
+🔗 [Read more](https://untangled.substack.com/p/what-is-your-ai-strategy-7c6)  
+
+
+### 6. Against Gross Domestic Product
+
+> No content...  
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/65d1453a-240a-4c48-a6ce-fe3d85e2e582_1130x1130.jpeg" width="300px">
+
+🔗 [Read more](https://substack.com/home/post/p-157155495)  
+
+
+### 7. Liquidity, growth and inflation. 
+
+> The first part of this article deals with Fed Minutes, Scott Bessent’s comments, PMIs, the DOGE initiatives and their impact on NFPs, and China. If yo...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75995283-61a6-4cf4-8a19-a7ec394ee188_1561x861.png" width="300px">
+
+🔗 [Read more](https://repoinsight.substack.com/p/liquidity-growth-and-inflation)  
+
+
+### 8. OpenAI 'bây giờ biết cách xây dựng AGI'
+
+> Chào buổi sáng, những người đam mê trí tuệ nhân tạo. Sam Altman đang trở lại trong tiêu đề tuần này—từ các bài đăng mơ hồ đến những tuyên bố rõ ràng: ...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a8a9e3e-270b-44cc-9c95-85d41f6aa109_1292x724.png" width="300px">
+
+🔗 [Read more](https://aiupdate.nguyentatkiem.com/p/openai-bay-gio-biet-cach-xay-dung)  
+
+
+### 9. #128 Supplemental Data
+
+> This post contains the charts, data, and metrics I use to create the weekly update posts released Monday morning....  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9efa2316-c439-473b-b05a-e50addb6545a_3286x1956.heic" width="300px">
+
+🔗 [Read more](https://zenalyticstrading.substack.com/p/128-supplemental-data)  
+
+
+### 10. Anthology #3: Tiger Management
+
+> Hi there! Welcome to A Letter a Day. If you want to know more about this newsletter, see "The Archive.” At a high level, you can expect to receive a m...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff63af524-38d8-4cc6-8c9e-9c6a97480967_826x382.png" width="300px">
+
+🔗 [Read more](https://aletteraday.substack.com/p/anthology-3-tiger-management)  
 
 
 ---
