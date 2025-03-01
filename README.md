@@ -9,74 +9,50 @@
 
 ## 🚀 Recommended Reads for Today
 
-*Last updated: 01/03/2025, 09:43:15*
+*Last updated: 01/03/2025, 09:43:34*
 
 
-### 1. Election Hacking 2024
+### 1. Chuck Schumer's preposterous "lay down" strategy
 
-> No content...  
-<img src="https://substackcdn.com/image/youtube/w_728,c_limit/YAauGlbHZbw" width="300px">
+> EXTRA! EXTRA! EXTRA!...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa00471c-f79e-493a-90d9-63f9b3a6d209_1834x1269.jpeg" width="300px">
 
-🔗 [Read more](https://tellthetruth4free.substack.com/p/election-hacking-2024)  
-
-
-### 2. Join Our 5-Day Remote Leadership Challenge
-
-> Leadership is challenging enough in person. But when you’re managing teams remotely, every aspect becomes more complex. Whether you’re leading a fully...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbff8f99a-63d9-423e-b201-e6ef0548e519_2356x1248.png" width="300px">
-
-🔗 [Read more](https://16personalities.substack.com/p/join-our-5-day-remote-leadership-challenge)  
+🔗 [Read more](https://steveschmidt.substack.com/p/chuck-schumers-preposterous-lay-down)  
 
 
-### 3. exploring new role: "employee experience manager"
+### 2. FBI to Trump: Go Fuck Yourself
 
-> employee experience manager: designing workplaces where people thrive...  
-<img src="https://substack-post-media.s3.amazonaws.com/public/images/773c516e-f7a0-4452-96a2-ff6057146c7e_1536x2305.jpeg" width="300px">
+> Feb. 3: Some FBI field office leaders are mounting a rebellion … Trump turns SEC, CFPB over to Wall Street … Trump to meet with tariff foes … DNC elec...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9759f9b-ee84-43a8-8e8f-360bb6aaa797_1756x1216.png" width="300px">
 
-🔗 [Read more](https://khadyajah.substack.com/p/exploring-new-role-employee-experience)  
-
-
-### 4. #64 Here's how you keep up with AI!
-
-> Good morning, AI enthusiasts! This week, we’re diving into a challenge many of us face: keeping up with the rapid pace of AI and answering some extrem...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb923297f-041d-45ef-91ac-ef5c97ab0d2b_480x646.jpeg" width="300px">
-
-🔗 [Read more](https://learnaitogethernewsletter.substack.com/p/64-heres-how-you-keep-up-with-ai)  
+🔗 [Read more](https://thefuckingnews.substack.com/p/fbi-to-trump-go-fuck-yourself)  
 
 
-### 5. What is your AI strategy?
+### 3. It’s The Data, Stupid
 
-> I’m launching two new cohorts for my live, interactive, online course, Sociotechnical Systems Change in Practice. ‘Sociotechnical Systems Change in Pr...  
-<img src="https://substack-post-media.s3.amazonaws.com/public/images/53eda9e0-fdd6-4768-8b3f-4f14d7c69e0b_420x300.png" width="300px">
+> On a recent episode of The Bulwark’s “Focus Group” with Sarah Longwell, guest Kara Swisher stated the obvious. What is Elmo after? The DATA!This newsl...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5aa17c8-b0fa-4095-a1dd-098737dd720a_1024x1024.png" width="300px">
 
-🔗 [Read more](https://untangled.substack.com/p/what-is-your-ai-strategy-7c6)  
-
-
-### 6. Against Gross Domestic Product
-
-> No content...  
-<img src="https://substack-post-media.s3.amazonaws.com/public/images/65d1453a-240a-4c48-a6ce-fe3d85e2e582_1130x1130.jpeg" width="300px">
-
-🔗 [Read more](https://substack.com/home/post/p-157155495)  
+🔗 [Read more](https://dougsooley.substack.com/p/its-the-data-stupid)  
 
 
-### 7. Liquidity, growth and inflation. 
+### 4. TAI #140: xAI’s Grok-3 steps up the AI Arms Race
 
-> The first part of this article deals with Fed Minutes, Scott Bessent’s comments, PMIs, the DOGE initiatives and their impact on NFPs, and China. If yo...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75995283-61a6-4cf4-8a19-a7ec394ee188_1561x861.png" width="300px">
+> What happened this week in AI by Louie...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a90e2eb-d090-413c-89d0-df60a4088469_1600x826.png" width="300px">
 
-🔗 [Read more](https://repoinsight.substack.com/p/liquidity-growth-and-inflation)  
-
-
-### 8. OpenAI 'bây giờ biết cách xây dựng AGI'
-
-> Chào buổi sáng, những người đam mê trí tuệ nhân tạo. Sam Altman đang trở lại trong tiêu đề tuần này—từ các bài đăng mơ hồ đến những tuyên bố rõ ràng: ...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a8a9e3e-270b-44cc-9c95-85d41f6aa109_1292x724.png" width="300px">
-
-🔗 [Read more](https://aiupdate.nguyentatkiem.com/p/openai-bay-gio-biet-cach-xay-dung)  
+🔗 [Read more](https://newsletter.towardsai.net/p/tai-140-xais-grok-3-steps-up-the)  
 
 
-### 9. #128 Supplemental Data
+### 5. Perplexity Launches Deep Research: A Game-Changer in AI-Powered Research
+
+> Perplexity AI has unveiled its latest feature, Deep Research, designed to revolutionize the way users conduct in-depth analysis across various subject...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26b1e415-9fef-46dd-a382-cc939e953962_1280x720.jpeg" width="300px">
+
+🔗 [Read more](https://aihorizonx.substack.com/p/perplexity-launches-deep-research)  
+
+
+### 6. #128 Supplemental Data
 
 > This post contains the charts, data, and metrics I use to create the weekly update posts released Monday morning....  
 <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9efa2316-c439-473b-b05a-e50addb6545a_3286x1956.heic" width="300px">
@@ -84,12 +60,36 @@
 🔗 [Read more](https://zenalyticstrading.substack.com/p/128-supplemental-data)  
 
 
-### 10. Anthology #3: Tiger Management
+### 7. Product Integrations - A User-Centric Approach
 
-> Hi there! Welcome to A Letter a Day. If you want to know more about this newsletter, see "The Archive.” At a high level, you can expect to receive a m...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff63af524-38d8-4cc6-8c9e-9c6a97480967_826x382.png" width="300px">
+> Ever been part of a company merger or acquisition?...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ac97048-0339-4d80-8387-6577cb231493_1200x627.png" width="300px">
 
-🔗 [Read more](https://aletteraday.substack.com/p/anthology-3-tiger-management)  
+🔗 [Read more](https://newsletter.productsciencegroup.com/p/product-integrations-a-user-centric)  
+
+
+### 8. How Do You Design For Preventative User Behavior?
+
+> This article is written in a collaboration between Christopher K Wong (@christopherkwong), data-driven design expert and author of ‘Data Persuasion an...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8bf7f6f8-3449-44ab-950a-bef5aa23502c_1024x700.png" width="300px">
+
+🔗 [Read more](https://eidosdesign.substack.com/p/how-do-you-design-for-preventative)  
+
+
+### 9. The Golden Rule of Growth
+
+> Everything in life—every success story, every revolution, every personal transformation—follows the same hidden rhythm: growth and renewal. Once you s...  
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/32efb906-28a6-4c8f-8bd9-325b367ab78a_1080x1080.png" width="300px">
+
+🔗 [Read more](https://leftbrainmystic.substack.com/p/the-golden-rule-of-growth)  
+
+
+### 10. Product-Led AI Agent Economy
+
+> For the last two decades, APIs were the backbone of digital transformation. The API economy, once valued at $5.21 trillion (Deutsche Bank, 2023), was ...  
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/9eb2de53-8b39-4b11-a2e9-b0d9e64d8063_736x605.png" width="300px">
+
+🔗 [Read more](https://www.productvoyagers.com/p/product-led-ai-agent-economy)  
 
 
 ---
