@@ -9,67 +9,67 @@
 
 ## 🚀 Recommended Reads for Today
 
-*Last updated: 01/03/2025, 09:26:54*
+*Last updated: 01/03/2025, 09:29:36*
 
 
-### 1. Netflix & Disney’s Biggest Strategy Mistake  
-> Sometimes, a single visual speaks volume and this week’s visual highlights Netflix & Disney’s biggest strategic advertising misstep. Want proof? Strea...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06e4d5b6-6790-4ff2-b16c-e05cae6f38d5_1502x1139.heic" width="300px">  
-🔗 [Read more](https://marionranchet.substack.com/p/netflix-and-disneys-biggest-strategy)  
-
-
-### 2. Building A Decision-Making Culture  
-> I remember the exact moment I realized I was perpetuating the problem. Six months into leading a new team, I was proud of my "open door policy" and ho...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0a2dd68-bae4-41c6-94d8-44dae3907d4a_1024x608.png" width="300px">  
-🔗 [Read more](https://leadershiplighthouse.substack.com/p/building-a-decision-making-culture)  
-
-
-### 3. Transformational Leadership  
-> Read time: 3 minutes...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8a7ae11-e971-4e55-9512-3962c9e0eb92_3072x4080.jpeg" width="300px">  
-🔗 [Read more](https://joeballou.substack.com/p/transformational-leadership)  
-
-
-### 4. How to Ace the Product Sense Interview  
-> Why Product Sense Interviews Matter...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33a5af27-a972-443f-b683-035f422001f1_3024x4032.heic" width="300px">  
-🔗 [Read more](https://rodolfodays.substack.com/p/how-to-ace-the-product-sense-interview)  
-
-
-### 5. Friday: Australian jobs growth continues  
-> Global stocks are down after a Walmart warning. Australia’s jobless rate ticks up, but jobs also surge, so the RBA says it’s hard to see bad news in t...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cb5eb50-1fd9-42b6-a77a-70479b61523a_1440x960.heic" width="300px">  
-🔗 [Read more](https://5in5withanz.substack.com/p/friday-australian-jobs-growth-continues)  
-
-
-### 6. You don't get leadership training at work?  
+### 1. CPO at GoDaddy on Transforming a 27-Year-Old Business into an AI Powerhouse | Vinod Suresh, US BU   
 > No content...  
-<img src="https://substack-post-media.s3.amazonaws.com/public/images/d2f403a3-54fa-4faa-9dfb-6a36f1463dd3_1080x720.jpeg" width="300px">  
-🔗 [Read more](https://marcusblankenship.substack.com/p/you-dont-get-leadership-training)  
+<img src="https://substackcdn.com/image/youtube/w_728,c_limit/TymqGil5QkY" width="300px">  
+🔗 [Read more](https://productschool.substack.com/p/cpo-at-godaddy-on-transforming-a)  
 
 
-### 7. Trump's top-cover strategy becomes clear  
-> Thomas P.M. Barnett’s Global Throughlines is a reader-supported publication. To receive new posts and support my work, consider becoming a free or pai...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80038ef9-cdb2-44ef-b8cb-35c787af7906_300x450.heic" width="300px">  
-🔗 [Read more](https://thomaspmbarnett.substack.com/p/trumps-top-cover-strategy-becomes)  
+### 2. Expanding Our Ways of Knowing  
+> In her newly released second edition of "Changing on the Job" (2025), Jennifer Garvey Berger offers us a profound insight that resonates deeply in our...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feeeb243a-2f11-404c-9731-8356e26436f1_2956x3941.jpeg" width="300px">  
+🔗 [Read more](https://melissageorge.substack.com/p/expanding-our-ways-of-knowing)  
 
 
-### 8. Whose Experience is it Anyway?  
-> Owning Your Experience...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68205073-bf52-4234-ae4b-952887877807_4368x3144.png" width="300px">  
-🔗 [Read more](https://podoflions.substack.com/p/whose-experience-is-it-anyway)  
+### 3. The Strategy behind the chaos  
+> Imagine a world where a small cadre of tech billionaires with infinite wealth and infinite power and egos to match want to control the world they thin...  
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/542ca6a2-2d2e-46ad-a20a-6a2b8091ad96_480x480.gif" width="300px">  
+🔗 [Read more](https://davidwfitzsimmons.substack.com/p/the-strategy-behind-the-chaos)  
 
 
-### 9. The Hidden Half of Experience   
-> In my writing here, I try to focus on the different ways meditation and meditative insight can help with everyday life, as well as some of the differe...  
-<img src="https://substack-video.s3.amazonaws.com/video_upload/post/156670335/c8e393b5-8aca-48bb-b1cf-90e7c991338a/transcoded-1739022415.png" width="300px">  
-🔗 [Read more](https://www.homebasewithjeff.com/p/the-hidden-half-of-experience-ee8)  
+### 4. The Product Is Never The Product - The Key to Sales  
+> A bushy-mustached man in a wide-brimmed hat steps onto a makeshift stage, surveying the crowd—farmers, laborers, and weary travelers, all desperate fo...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fecd26fb9-d8f7-4931-8ce4-ac779f2ad4dc_700x1038.png" width="300px">  
+🔗 [Read more](https://joeboyd.substack.com/p/the-product-is-never-the-product)  
 
 
-### 10. Bruin AI Current Events  
-> Good morning Bruin Bots 🤖...  
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46fb0069-3591-4c89-8607-5c2cd60d2b04_1792x1024.webp" width="300px">  
-🔗 [Read more](https://bruinai.substack.com/p/bruin-ai-current-events-370)  
+### 5. "AI is not coming for your job. It's coming for your workflow"  
+> Hello! Welcome to the latest edition of AI Gamechangers, the weekly newsletter where we chat with leaders from the games industry who are doing practi...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef90bf28-06d2-4df0-8c77-41b79d70b14a_1295x800.jpeg" width="300px">  
+🔗 [Read more](https://aigamechangers.substack.com/p/ai-is-not-coming-for-your-job-its)  
+
+
+### 6. Pioggia di investimenti e modelli, ma aumentano le proteste per copyright | Weekly AI  
+> Weekly AI è la nostra rassegna settimanale sulle notizie più rilevanti legate al mondo dell’intelligenza artificiale....  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc291ecb5-0b9a-491a-8acd-623f41c06087_1408x704.jpeg" width="300px">  
+🔗 [Read more](https://weeklyaiit.substack.com/p/pioggia-di-investimenti-e-modelli)  
+
+
+### 7. The “Flood the Zone” Strategy  
+> The Trump-Musk administration is moving fast—flooding the zone with crises, cruelty, and chaos. Their goal? To overwhelm, disorient, and exhaust oppos...  
+<img src="" width="300px">  
+🔗 [Read more](https://antiauthoritarianplaybook.substack.com/p/the-flood-the-zone-strategy)  
+
+
+### 8. Product-Led AI Agent Economy  
+> For the last two decades, APIs were the backbone of digital transformation. The API economy, once valued at $5.21 trillion (Deutsche Bank, 2023), was ...  
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/9eb2de53-8b39-4b11-a2e9-b0d9e64d8063_736x605.png" width="300px">  
+🔗 [Read more](https://www.productvoyagers.com/p/product-led-ai-agent-economy)  
+
+
+### 9. Chuck Schumer's preposterous "lay down" strategy  
+> EXTRA! EXTRA! EXTRA!...  
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa00471c-f79e-493a-90d9-63f9b3a6d209_1834x1269.jpeg" width="300px">  
+🔗 [Read more](https://steveschmidt.substack.com/p/chuck-schumers-preposterous-lay-down)  
+
+
+### 10. 2025 February "AI Evaluation" Digest  
+> Welcome to this month's AI Evaluation Digest — a space dedicated to challenging the status quo and broadly thinking about how we evaluate AI. In this ...  
+<img src="https://substack-post-media.s3.amazonaws.com/public/images/728dae01-89ec-486a-81bd-1fe783f8322c_1024x1024.webp" width="300px">  
+🔗 [Read more](https://aievaluation.substack.com/p/2025-february-ai-evaluation-digest)  
 
 
 ---
