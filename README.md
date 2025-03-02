@@ -1,4 +1,4 @@
-> "Not using GitHub? Find me on [LinkedIn 🔗](https://linkedin.com/in/cuongndc9)!"
+> "Not using GitHub? Find me on [LinkedIn 🔗](https://linkedin.com/in/cuong9)!"
 
 🚀 **Looking for top software engineering jobs in Vietnam?**  
 Check out [swejob.netlify.app](https://swejob.netlify.app)!  
