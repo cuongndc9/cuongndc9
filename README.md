@@ -5,6 +5,6 @@ Find me 😇 on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 #off
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Be a lifelong learner, not a know-it-all.
-🐶
+Stay curious. Keep learning. Keep growing.
+🦖
 <!-- INSPIRATIONAL_QUOTE_END -->
