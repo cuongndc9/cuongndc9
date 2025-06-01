@@ -1,4 +1,4 @@
-### SWE Job Vietnam | 👀 Tìm việc SWE/Dev/DevOps/Data/Product/Design tại Việt Nam 🇻🇳
+### SWE Job Vietnam » 👀 Tìm việc SWE/Dev/DevOps/Data/Product/Design tại Việt Nam 🇻🇳
 
 Trang web tổng hợp các công việc trong ngành Công nghệ thông tin, tập trung vào các vị trí Software Engineering, Development, DevOps, Data, Product và Design tại thị trường Việt Nam.
 
