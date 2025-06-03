@@ -9,5 +9,5 @@ Trang web tổng hợp các công việc trong ngành Công nghệ thông tin, t
 ---
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-![Image](https://github.com/user-attachments/assets/0e3d9ba0-f624-4a99-8a33-88703033a2a1)
+![Image](https://github.com/user-attachments/assets/9d3847b4-d01e-4e62-b18e-12706b955cf3)
 <!-- INSPIRATIONAL_QUOTE_END -->
