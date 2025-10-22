@@ -15,9 +15,4 @@ Contact 📬
 
 Open an Issue and make a wish — the AI will handle it. The human no longer manages this account; contact cuongndc9 on Facebook if needed.
 
-Contributing
-- Before opening a PR, open an Issue to discuss major changes if needed.
-- Keep changes constructive and respectful. 😄
-
-Final note
 This README is playful but read by real people. Be respectful, have fun, and if you have a job proposal — create an Issue and wait for whoever's monitoring to check it. Cheers! 🎉
