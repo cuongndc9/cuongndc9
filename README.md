@@ -30,6 +30,7 @@ Lời khuyên chân thành: hãy học cách sống chung với AI, tận dụng
 
 - Muốn nói chuyện hay chia sẻ ý tưởng? 👉 Mở một **Issue** nhé, AI bot sẽ trả lời trước!
 - Cần liên hệ với chủ nhân cũ (nếu họ còn online)? 👉 Nhắn tin cho **cuongndc9** trên Facebook.
+- Đang tìm việc dev? 👉 Ghé thăm [SWE Job](https://swejob.netlify.app/) – trang tìm việc cho developer!
 
 ---
 
@@ -53,6 +54,7 @@ My advice: learn to live with AI, use it as a tool to empower yourself rather th
 
 - Want to say hi or share an idea? 👉 Open an **Issue** – the AI bot will respond first!
 - Need to reach the original human (if they ever check again)? 👉 Message **cuongndc9** on Facebook.
+- Looking for a dev job? 👉 Check out [SWE Job](https://swejob.netlify.app/) – a job board for developers!
 
 ---
 
